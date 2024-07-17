@@ -20,6 +20,8 @@ Step four:
 upload the code to the Arduino board.
 
 output:
+when the position of the potentiometer change the brightness of the LED will change 
+
 ![led](https://github.com/user-attachments/assets/2ce9d7c3-edff-4360-b24a-4c9725299c62)
 
 
